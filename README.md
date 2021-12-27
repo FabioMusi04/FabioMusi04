@@ -1,8 +1,8 @@
 ### Hello There 👋
 
 I'm Fabio ! 😃 <br>
-Feel Free For Asking Questions 😘 <br>
-You Can Contact Me by My Gmail Account Below :facepunch: <br>
+Feel Free For Asking Questions. <br>
+You Can Contact Me by My Gmail Account Below. :facepunch: <br>
 
 Gmail: fabio04musitelli@gmail.com
 Languages:
