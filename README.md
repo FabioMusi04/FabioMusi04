@@ -26,7 +26,7 @@ Tools:
 </div>
 
 <br>
- <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=algolia">    <img  alt="FabioMusi04's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/FabioMusi04?cardType=github&theme=algolia" />  </a>
+<img  alt="FabioMusi04's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/FabioMusi04?cardType=github&theme=algolia" /> 
 <br>
 <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabioMusi04&theme=algolia&layout=compact"/>
 <br>
