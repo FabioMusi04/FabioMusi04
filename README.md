@@ -26,9 +26,9 @@ Tools:
 </div>
 
 <br>
-![FabioMusi's github stats](https://github-readme-stats.vercel.app/api?username=FabioMusi04&show_icons=true&theme=algolia) 
+<img alt="FabioMusi's github stats" src="https://github-readme-stats.vercel.app/api?username=FabioMusi04&show_icons=true&theme=algolia"/>
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FabioMusi04&theme=algolia&layout=compact)](https://github.com/FabioMusi04/FabioMusi04)
+<img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabioMusi04&theme=algolia&layout=compact"/>
 <br>
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dark)](https://github.com/ryo-ma/github-profile-trophy)
+<img alt="trophy" src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dark)](https://github.com/ryo-ma/github-profile-trophy"/>
 <br>
