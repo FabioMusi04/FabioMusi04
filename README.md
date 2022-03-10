@@ -26,7 +26,7 @@ Tools:
 </div>
 
 <br>
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=FabioMusi04&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 ![FabioMusi's github stats](https://github-readme-stats.vercel.app/api?username=FabioMusi04&show_icons=true&theme=gotham) <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FabioMusi04&theme=gotham&layout=compact)](https://github.com/FabioMusi04/FabioMusi04)
 
