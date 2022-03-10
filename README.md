@@ -30,5 +30,5 @@ Tools:
 <br>
 <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabioMusi04&theme=algolia&layout=compact"/>
 <br>
-<img alt="trophy" src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dark)](https://github.com/ryo-ma/github-profile-trophy"/>
+<img alt="trophy" src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy"/>
 <br>
