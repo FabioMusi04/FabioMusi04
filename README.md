@@ -32,4 +32,4 @@ Tools:
 <br>
 <img alt="trophy" src="https://github-profile-trophy.vercel.app/?username=FabioMusi04&theme=onedark"/>
 <br>
-<img alt="Stats" src="https://activity-graph.herokuapp.com/graph?username=FabioMusi04&custom_title=My%20%20%20Stats&hide_border=true&theme=react-dark"/>
+<!--<img alt="Stats" src="https://activity-graph.herokuapp.com/graph?username=FabioMusi04&custom_title=My%20%20%20Stats&hide_border=true&theme=react-dark"/>-->
