@@ -3,12 +3,7 @@
 ### Hello There 👋
 
 I'm Fabio! 😃 <br>
-Full Stack Dev. <br>
 Feel Free For Asking Questions. <br>
-You Can Contact Me by My Gmail Account Below. :facepunch: <br>
-
-Gmail: fabio.musitelli04@gmail.com <br>
-
 ---
 
 ## Languages:
