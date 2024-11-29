@@ -3,7 +3,6 @@
 ### Hello There 👋
 
 I'm Fabio! 😃 <br>
-Feel Free For Asking Questions. <br>
 ---
 
 ## Languages:
@@ -44,9 +43,7 @@ Feel Free For Asking Questions. <br>
 
 ## Stats:
 <div align="center">
-    <img  alt="FabioMusi04's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/FabioMusi04?cardType=github&theme=algolia" /> 
-    <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabioMusi04&theme=algolia&layout=compact"/>
-    <img alt="trophy" src="https://github-profile-trophy.vercel.app/?username=FabioMusi04&theme=onedark"/>
+    ![FabioMusi04's GitHub stats](https://github-readme-stats.vercel.app/api?username=FabioMusi04&show_icons=true&theme=radical)
 </div>
 
 </div>
