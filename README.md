@@ -34,7 +34,7 @@ I'm **Fabio** — a backend-focused developer who occasionally ventures into fro
 ## 🛠 Tools I Use
 [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
 [![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visualstudio&logoColor=white)](#)
-[![Roblox Studio Badge](https://img.shields.io/badge/Roblox%20Studio-00A2FF?logoColor=fff&style=flat)]()
+![Roblox Studio Badge](https://img.shields.io/badge/Roblox%20Studio-00A2FF?logo=robloxstudio&logoColor=fff&style=flat)
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)](#)
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
 [![Swagger](https://img.shields.io/badge/Swagger-85EA2D?logo=insomnia&logoColor=000)](#)
@@ -59,3 +59,4 @@ I'm **Fabio** — a backend-focused developer who occasionally ventures into fro
 ⭐ **Fun Fact**: Backend bugs are like ninjas — invisible until they strike in production.
 
 </div>
+
