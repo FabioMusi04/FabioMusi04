@@ -1,49 +1,47 @@
 <div align="center">
 
-### Hello There 👋
-
-I'm Fabio! 😃 <br>
----
-
-## Languages:
-<div align="center">
-    <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white%22/%3E"/>
-    <img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-    <img alt="Css3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
-    <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-    <img alt="Shell script" src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
-    <img alt=".NET" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
-    <img alt="Javascript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-    <img alt="Sqlite" src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/>
-    <img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
-    <img alt="MYSQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
-    <img alt="NodeJS" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
-    <img alt="Vue JS" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"/>
-    <img alt="Quasar" src="https://img.shields.io/badge/Quasar-16B7FB?style=for-the-badge&logo=quasar&logoColor=black"/>
-    <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-    <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
-    <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
-    <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
-</div>
-
----
-## Learning:
-<div align="center">
-    Nothing... (not true I am working.. :D)
-</div>
-
-
-## Tools:
-<div align="center">
-    <img alt="Visual studio code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-    <img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"/>
-</div>
+# 👋 Hello There!  
+I'm **Fabio** — a backend-focused developer who occasionally ventures into frontend lands 😃  
 
 ---
 
-## Stats:
-<div align="center">
-    <picture>
+## 💻 Languages & Frameworks
+**Specializing in backend technologies, but fluent across the stack.**  
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)]()
+[![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)
+[![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white)]()
+[![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)]()
+[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)]()
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)]()
+[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)]()
+![Luau Badge](https://img.shields.io/badge/Luau-00A2FF?logo=luau&logoColor=fff&style=flat)
+
+**Also comfortable with:**  
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)]()
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)]()
+[![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)]()
+[![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)](#)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)]()
+
+---
+
+## 📚 Currently Learning
+> Deepening my expertise in **backend architecture**, **microservices**, and **API design** while keeping an eye on DevOps tools and best practices.
+
+---
+
+## 🛠 Tools I Use
+[![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
+[![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visualstudio&logoColor=white)](#)
+[![Roblox Studio Badge](https://img.shields.io/badge/Roblox%20Studio-00A2FF?logoColor=fff&style=flat)]()
+[![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)](#)
+[![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
+[![Swagger](https://img.shields.io/badge/Swagger-85EA2D?logo=insomnia&logoColor=000)](#)
+---
+
+## 📊 GitHub Stats
+<picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=FabioMusi04&show_icons=true&theme=dark"
     media="(prefers-color-scheme: dark)"
@@ -54,6 +52,10 @@ I'm Fabio! 😃 <br>
   />
   <img src="https://github-readme-stats.vercel.app/api?username=FabioMusi04&show_icons=true" />
 </picture>
-</div>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FabioMusi04&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+---
+
+⭐ **Fun Fact**: Backend bugs are like ninjas — invisible until they strike in production.
 
 </div>
