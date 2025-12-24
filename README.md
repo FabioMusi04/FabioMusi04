@@ -1,7 +1,7 @@
 <div align="center">
 
 # 👋 Hello There!  
-I'm **Fabio** — a backend-focused developer who occasionally ventures into frontend lands 😃  
+I'm **Fabio** — a software engineer 😃  
 
 ---
 
@@ -59,4 +59,5 @@ I'm **Fabio** — a backend-focused developer who occasionally ventures into fro
 ⭐ **Fun Fact**: Backend bugs are like ninjas — invisible until they strike in production.
 
 </div>
+
 
